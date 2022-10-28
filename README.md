@@ -14,3 +14,8 @@ this repository contains all the necessary things to get started with data scien
  3) [Postgres for Data Engineers](https://www.dataquest.io/course/postgres-for-data-engineers/?rfsn=6350382.6e669214)
  4) [Microsoft Azure for Data Engineering](https://www.coursera.org/learn/microsoft-azure-dp-203-data-engineering?specialization=microsoft-azure-dp-203-data-engineering)
 5) [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/learnZintroduction-to-designing-data-lakes-in-aws6)
+6) [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?aid=true&specialization=google-data-analytics7) 
+7) [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning)
+8) [Big Data and Hadoop Essentials](https://bit. ly/3W8dZFm)
+9) [Data Engineering Course](https://bit.ly/3f7sbxy) 
+10)[Data Engineering ETL, Web Scraping, Big Data, SQL, Power BI](https://bit. ly/3WaoRIV)/
