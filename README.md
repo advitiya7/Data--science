@@ -7,4 +7,10 @@ this repository contains all the necessary things to get started with data scien
 - link-[SQL](https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet)
 - link-[Python](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners)
 - link-[Git](https://www.datacamp.com/cheat-sheet/git-cheat-sheet)
-- ## ------------------------------------------------------------------------------------------------
+ ## -------------------------------------------------------------------------------------------
+ # Top 10 Data Engineering Courses
+ 1) [A Complete Course on Data Engineering](https://machinehack.Com/bootcamps/633c19aa20ebf0e0f02ffcc52)
+ 2) [Data Engineer with Python](https://app.datacamp.com/learn/career-tracks/data-engineer-with-python)
+ 3) [Postgres for Data Engineers](https://www.dataquest.io/course/postgres-for-data-engineers/?rfsn=6350382.6e669214)
+ 4) [Microsoft Azure for Data Engineering](https://www.coursera.org/learn/microsoft-azure-dp-203-data-engineering?specialization=microsoft-azure-dp-203-data-engineering)
+5) [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/learnZintroduction-to-designing-data-lakes-in-aws6)
