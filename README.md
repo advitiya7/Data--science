@@ -17,9 +17,5 @@ this repository contains all the necessary things to get started with data scien
 6) [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data?aid=true&specialization=google-data-analytics7) 
 7) [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning)
 8) [Data Engineering Course](https://bit.ly/3f7sbxy) 
- <details><summary>CLICK HERE!</summary>
- <p>
- <h1>hello ujjwal</h1>
- </p>
- </details>
+ 
   
