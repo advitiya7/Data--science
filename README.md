@@ -7,3 +7,4 @@ this repository contains all the necessary things to get started with data scien
 - link-[SQL](https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet)
 - link-[Python](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners)
 - link-[Git](https://www.datacamp.com/cheat-sheet/git-cheat-sheet)
+- ## ------------------------------------------------------------------------------------------------
